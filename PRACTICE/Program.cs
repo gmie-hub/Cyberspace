@@ -11,6 +11,7 @@ namespace JimiPractice
             numbers[4] = 26;
             numbers[3] = numbers[6];
             numbers[2] = numbers[2] + 2;
+            this
 
             bool[] boolArray = new bool[3] { true, false, false };
             Console.WriteLine(8); Console.WriteLine(16); Console.WriteLine(boolArray);
